@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "computer",
+        "classNumber": 9,
+        "topics": [
+            "oop",
+            "ms-office"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "mathematics",
+        "classNumber": 9,
+        "topics": [
+            "trigonometry",
+            "real numbers"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "biology",
+        "classNumber": 9,
+        "topics": [
+            "biodiversity",
+            "respiration"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "chemistry",
+        "classNumber": 9,
+        "topics": [
+            "Classification of Elements and Periodicity in Properties",
+            "Structure of Atom",
+            "Thermodynamics",
+            "Hydrogen",
+            "States of Matter: Gases and Liquids",
+            "Redox Reactions",
+            "Chemical Bonding and Molecular Structure",
+            "Equilibrium"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "mathematics",
+        "classNumber": 10,
+        "topics": [
+            "Number Systems",
+            "Pair of Linear Equations in Two Variables",
+            "Arithmetic Progressions (AP)",
+            "Polynomials",
+            "Quadratic Equations"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Chemistry",
+        "classNumber": 10,
+        "topics": [
+            "Heredity and Evolution",
+            "Periodic Classification of Elements",
+            "Magnetic Effect of Current",
+            "Acids,Bases and Salts",
+            "Carbon Compounds",
+            "Organic Chemistry"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Physics",
+        "classNumber": 10,
+        "topics": [
+            "Ohm’s Law",
+            "Contact and non-contact forces",
+            "Turning forces concept",
+            "Refraction of light",
+            "Electrical power and energy",
+            "Energy sources",
+            "Lenses",
+            "Reflection of Sound Waves"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Computer",
+        "classNumber": 10,
+        "topics": [
+            "Using Library Classes",
+            "Encapsulation",
+            "Class as a User Defined Type",
+            "Constructors",
+            "Functions",
+            "Objects and Classes",
+            "Iterations",
+            "Arrays",
+            "Input/Output"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Physics",
+        "classNumber": 9,
+        "topics": [
+            "Motion",
+            "Gravitation",
+            "Sound",
+            "Force and Laws of Motion",
+            "Work and Energy"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Mathematics",
+        "classNumber": 11,
+        "topics": [
+            "Permutations and Combinations",
+            "Sets",
+            "Relations & Functions",
+            "Complex Numbers and Quadratic Equations",
+            "Trigonometric Functions",
+            "Principle of mathematical induction"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Physics",
+        "classNumber": 11,
+        "topics": [
+            "Work Energy and Power",
+            "Thermodynamics",
+            "Motion in a straight Line",
+            "Motion in a Plane",
+            "Laws of Motion",
+            "Units and Measurements",
+            "Gravity"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Chemistry",
+        "classNumber": 11,
+        "topics": [
+            "Classification of Elements and Periodicity in Properties",
+            "Structure of Atom",
+            "Chemical Thermodynamics",
+            "States of Matter: Gasses and Liquid",
+            "Chemical Bonding and Molecular Structure",
+            "Equilibrium",
+            "Organic Chemistry"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Biology",
+        "classNumber": 11,
+        "topics": [
+            "Biological Classification",
+            "Cell Cycle and Cell Division",
+            "Structural Organisation in Animals",
+            "Plant Kingdom",
+            "Animal Kingdom",
+            "The Living World",
+            "Biomolecules"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Mathematics",
+        "classNumber": 12,
+        "topics": [
+            "Inverse Trigonometric Functions",
+            "Continuity and Differentiability",
+            "Integrals",
+            "Matrices",
+            "Differential Equations",
+            "Vectors",
+            "Applications of Derivatives",
+            "Relations and Functions"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Physics",
+        "classNumber": 12,
+        "topics": [
+            "Electrostatic Potential and Capacitance",
+            "Electric Charges and Fields",
+            "Electromagnetic Waves",
+            "Electromagnetic Induction",
+            "Alternating Current",
+            "Ray Optics and Optical Instruments",
+            "Magnetism and Matter",
+            "Current Electricity"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Chemistry",
+        "classNumber": 12,
+        "topics": [
+            "Chemical Kinetics",
+            "Coordination Compounds",
+            "Haloalkanes and Haloarenes",
+            "Solid State",
+            "Chemical Sollutions",
+            "Electrochemistry",
+            "Surface Chemistry",
+            "Alcohols, Phenols and Ethers"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Biology",
+        "classNumber": 12,
+        "topics": [
+            "Microbes in Human Welfare",
+            "Reproductive Health",
+            "Reproduction in Organisms",
+            "Principles of Inheritance and Variation",
+            "Evolution",
+            "Human Reproduction",
+            "Molecular Baasis of Inheritance",
+            "Human Health and Diseases"
+        ]
+    }
+]
